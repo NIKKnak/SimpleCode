@@ -1,0 +1,15 @@
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\bin\Debug\net6.0\SumArray.exe
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\bin\Debug\net6.0\SumArray.deps.json
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\bin\Debug\net6.0\SumArray.runtimeconfig.json
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\bin\Debug\net6.0\SumArray.dll
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\bin\Debug\net6.0\SumArray.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\obj\Debug\net6.0\SumArray.csproj.AssemblyReference.cache
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\obj\Debug\net6.0\SumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\obj\Debug\net6.0\SumArray.AssemblyInfoInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\obj\Debug\net6.0\SumArray.AssemblyInfo.cs
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\obj\Debug\net6.0\SumArray.csproj.CoreCompileInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\obj\Debug\net6.0\SumArray.dll
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\obj\Debug\net6.0\refint\SumArray.dll
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\obj\Debug\net6.0\SumArray.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\obj\Debug\net6.0\SumArray.genruntimeconfig.cache
+C:\Users\nik88\OneDrive\Desktop\C#\SumArrayRecurs\obj\Debug\net6.0\ref\SumArray.dll

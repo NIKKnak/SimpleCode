@@ -1,0 +1,15 @@
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\bin\Debug\net6.0\Lesson_74_oop.exe
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\bin\Debug\net6.0\Lesson_74_oop.deps.json
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\bin\Debug\net6.0\Lesson_74_oop.runtimeconfig.json
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\bin\Debug\net6.0\Lesson_74_oop.dll
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\bin\Debug\net6.0\Lesson_74_oop.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\obj\Debug\net6.0\Lesson_74_oop.csproj.AssemblyReference.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\obj\Debug\net6.0\Lesson_74_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\obj\Debug\net6.0\Lesson_74_oop.AssemblyInfoInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\obj\Debug\net6.0\Lesson_74_oop.AssemblyInfo.cs
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\obj\Debug\net6.0\Lesson_74_oop.csproj.CoreCompileInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\obj\Debug\net6.0\Lesson_74_oop.dll
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\obj\Debug\net6.0\refint\Lesson_74_oop.dll
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\obj\Debug\net6.0\Lesson_74_oop.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\obj\Debug\net6.0\Lesson_74_oop.genruntimeconfig.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_74_oop\obj\Debug\net6.0\ref\Lesson_74_oop.dll

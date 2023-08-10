@@ -1,0 +1,15 @@
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\bin\Debug\net6.0\DivizionNumber.exe
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\bin\Debug\net6.0\DivizionNumber.deps.json
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\bin\Debug\net6.0\DivizionNumber.runtimeconfig.json
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\bin\Debug\net6.0\DivizionNumber.dll
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\bin\Debug\net6.0\DivizionNumber.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\obj\Debug\net6.0\DivizionNumber.csproj.AssemblyReference.cache
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\obj\Debug\net6.0\DivizionNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\obj\Debug\net6.0\DivizionNumber.AssemblyInfoInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\obj\Debug\net6.0\DivizionNumber.AssemblyInfo.cs
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\obj\Debug\net6.0\DivizionNumber.csproj.CoreCompileInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\obj\Debug\net6.0\DivizionNumber.dll
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\obj\Debug\net6.0\refint\DivizionNumber.dll
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\obj\Debug\net6.0\DivizionNumber.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\obj\Debug\net6.0\DivizionNumber.genruntimeconfig.cache
+C:\Users\nik88\OneDrive\Desktop\C#\DivizionNumber\obj\Debug\net6.0\ref\DivizionNumber.dll

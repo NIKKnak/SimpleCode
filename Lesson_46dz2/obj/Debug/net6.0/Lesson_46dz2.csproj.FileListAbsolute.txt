@@ -1,0 +1,15 @@
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\bin\Debug\net6.0\Lesson_46dz2.exe
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\bin\Debug\net6.0\Lesson_46dz2.deps.json
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\bin\Debug\net6.0\Lesson_46dz2.runtimeconfig.json
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\bin\Debug\net6.0\Lesson_46dz2.dll
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\bin\Debug\net6.0\Lesson_46dz2.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\obj\Debug\net6.0\Lesson_46dz2.csproj.AssemblyReference.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\obj\Debug\net6.0\Lesson_46dz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\obj\Debug\net6.0\Lesson_46dz2.AssemblyInfoInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\obj\Debug\net6.0\Lesson_46dz2.AssemblyInfo.cs
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\obj\Debug\net6.0\Lesson_46dz2.csproj.CoreCompileInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\obj\Debug\net6.0\Lesson_46dz2.dll
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\obj\Debug\net6.0\refint\Lesson_46dz2.dll
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\obj\Debug\net6.0\Lesson_46dz2.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\obj\Debug\net6.0\Lesson_46dz2.genruntimeconfig.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_46dz2\obj\Debug\net6.0\ref\Lesson_46dz2.dll

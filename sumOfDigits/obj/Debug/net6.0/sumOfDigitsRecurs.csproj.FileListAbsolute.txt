@@ -1,0 +1,15 @@
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\bin\Debug\net6.0\sumOfDigitsRecurs.exe
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\bin\Debug\net6.0\sumOfDigitsRecurs.deps.json
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\bin\Debug\net6.0\sumOfDigitsRecurs.runtimeconfig.json
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\bin\Debug\net6.0\sumOfDigitsRecurs.dll
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\bin\Debug\net6.0\sumOfDigitsRecurs.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\obj\Debug\net6.0\sumOfDigitsRecurs.csproj.AssemblyReference.cache
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\obj\Debug\net6.0\sumOfDigitsRecurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\obj\Debug\net6.0\sumOfDigitsRecurs.AssemblyInfoInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\obj\Debug\net6.0\sumOfDigitsRecurs.AssemblyInfo.cs
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\obj\Debug\net6.0\sumOfDigitsRecurs.csproj.CoreCompileInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\obj\Debug\net6.0\sumOfDigitsRecurs.dll
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\obj\Debug\net6.0\refint\sumOfDigitsRecurs.dll
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\obj\Debug\net6.0\sumOfDigitsRecurs.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\obj\Debug\net6.0\sumOfDigitsRecurs.genruntimeconfig.cache
+C:\Users\nik88\OneDrive\Desktop\C#\sumOfDigits\obj\Debug\net6.0\ref\sumOfDigitsRecurs.dll

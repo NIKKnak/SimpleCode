@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lesson_56dz1ref/1.0.0": {
+        "runtime": {
+          "Lesson_56dz1ref.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_56dz1ref/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

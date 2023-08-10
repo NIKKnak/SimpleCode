@@ -1,0 +1,15 @@
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\bin\Debug\net6.0\Lesson_56dz1ref.exe
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\bin\Debug\net6.0\Lesson_56dz1ref.deps.json
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\bin\Debug\net6.0\Lesson_56dz1ref.runtimeconfig.json
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\bin\Debug\net6.0\Lesson_56dz1ref.dll
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\bin\Debug\net6.0\Lesson_56dz1ref.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\obj\Debug\net6.0\Lesson_56dz1ref.csproj.AssemblyReference.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\obj\Debug\net6.0\Lesson_56dz1ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\obj\Debug\net6.0\Lesson_56dz1ref.AssemblyInfoInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\obj\Debug\net6.0\Lesson_56dz1ref.AssemblyInfo.cs
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\obj\Debug\net6.0\Lesson_56dz1ref.csproj.CoreCompileInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\obj\Debug\net6.0\Lesson_56dz1ref.dll
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\obj\Debug\net6.0\refint\Lesson_56dz1ref.dll
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\obj\Debug\net6.0\Lesson_56dz1ref.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\obj\Debug\net6.0\Lesson_56dz1ref.genruntimeconfig.cache
+C:\Users\nik88\OneDrive\Desktop\C#\Lesson_56\obj\Debug\net6.0\ref\Lesson_56dz1ref.dll
